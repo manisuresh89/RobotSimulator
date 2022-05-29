@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXzmZbYTmTBX6Vq++y0hKXY7ajZhDkMSjZ2yolqaz8OQl7vwRdvXmCs9Hm8SpTKIdG39kOPTPNuLIrYYeh4LOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manik\\source\\repos\\ANZ.ToyRobot\\ANZ.ToyRobot\\ANZ.ToyRobot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

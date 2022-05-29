@@ -1,0 +1,16 @@
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.exe
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.deps.json
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.runtimeconfig.json
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.runtimeconfig.dev.json
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.dll
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\ANZ.ToyRobot.pdb
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.AssemblyInfoInputs.cache
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.AssemblyInfo.cs
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.csproj.CopyComplete
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.dll
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.pdb
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\obj\Debug\netcoreapp3.1\ANZ.ToyRobot.genruntimeconfig.cache
+C:\Users\manik\source\repos\ANZ.ToyRobot\ANZ.ToyRobot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
